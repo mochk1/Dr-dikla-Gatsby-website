@@ -1,5 +1,8 @@
 module.exports = {
   theme: {
+    fontFamily: {
+      assistant:['Assistant','sans-serif']
+    },
     extend: {
       colors: {
         primary: {
